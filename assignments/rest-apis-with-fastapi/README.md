@@ -16,7 +16,7 @@ Completed program should:
 
 - Create a `FastAPI` app instance
 - Respond to `GET /` with a JSON message such as `{"message": "Welcome to the Book API"}`
-- Run locally with `uvicorn starter-code:app --reload` (or a renamed `main.py`)
+- Save the starter code as `main.py` and run it locally with `uvicorn main:app --reload`
 
 ### 🛠️ Read Data with GET Endpoints
 
